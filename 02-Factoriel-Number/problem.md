@@ -1,0 +1,1 @@
+# Give an integer 'n' , find the factorial of that integer
