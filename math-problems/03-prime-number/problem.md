@@ -1,0 +1,1 @@
+# Give a natural number 'n', determine if the number is prime or not
